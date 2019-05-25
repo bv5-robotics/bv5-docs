@@ -1,0 +1,4 @@
+[submodule "sphinx_rtd_theme"]
+	path = sphinx_rtd_theme
+	url = https://github.com/bv5-robotics/sphinx_rtd_theme
+	branch = master
